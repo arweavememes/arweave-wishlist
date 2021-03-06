@@ -50,7 +50,7 @@ We encourage all Arweave community members and Core Team to contribute to this l
 ------
 
 ## Funding for Wishlist Items 💸 
-Looking for funding to work on any of the below? Here are some funding opportunities from the Arweave Core Team which are currently accepting applications: 
+Looking for funding to work on any of the above? Here are some funding opportunities from the Arweave Core Team which are currently accepting applications: 
 
 ### 🟢 Open Web Foundry [ACTIVE]
 * Funding available:
