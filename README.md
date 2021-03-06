@@ -11,6 +11,10 @@ Here are some ideas compiled by community members! This includes interesting pro
 ## Wishlist Items 📜 
 _In no particular order_
 
+### Social applications owned and run by their users
+* Platforms that put ultimate control of online spaces in the hands of their users. 
+* Examples of Arweave apps in progress in this area: [Decent Land](https://rgxotpmcqg2kgdpumj5zzhijus4dyuvicbf2epdhsg7hckvtamwq.arweave.net/ia7pvYKBtKMN9GJ7nJ0JpLg8UqgQS6I8Z5G-cSqzAy0), [Ecclesia Speech](https://twitter.com/EcclesiaSpeech), [PublicSquare](https://gist.github.com/samcamwilliams/811537f0a52b39057af1def9e61756b2).
+
 ### Educational materials
 * Enhanced and new documentation, tutorials and guides that can be shared with devs to support development on the Arweave protocol
   * Improved mining guides (documents/videos)
@@ -36,6 +40,8 @@ _In no particular order_
 ### Permaweb Package Manager
 
 ### Wrapped AR on Ethereum
+* A synthetic AR asset on Ethereum to enable interoperability between the Ethereum and Arweave ecosystems
+* See the Ethereum Bridge by Verto [here](https://blog.th8ta.org/eth)
 
 
 ------
