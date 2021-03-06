@@ -35,6 +35,8 @@ _In no particular order_
 
 ### Permaweb Package Manager
 
+### Wrapped AR on Ethereum
+
 
 ------
 
